@@ -4,7 +4,7 @@
     Uses a Advanced Peripherals End Automata to create a row of birch trees, bone meal them to growth, break them, collect the drops, then move them
     over to a chest for processing
     Teleportation is used to move the turtle around the farm.
-    By: Viking790
+    NOTE: This is kind of broken. It works, but it doesn't refill itself properly, and just throws out items on the floor instead of tping them to the storage.
 ]] --
 
 -- Clear the shell and print a startup message
