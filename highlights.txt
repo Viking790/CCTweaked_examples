@@ -1,0 +1,50 @@
+CONTRIBUTORS-
+Install the TODO Highlight extension by Wayou Liu.
+Copy the following and paste it into your settings.json file. 
+If your code editor of choice doesn't haven't the right extension, just copy the color/wordscheme and change format if needed
+
+"todohighlight.keywords": [
+    {
+      "text": "INFO:",
+      "color":            "#7DF9FF",
+      "backgroundColor":  "#7DF8FF20",
+      "borderRadius": "5px",
+      "isWholeLine": true
+    },
+    {
+        "text": "VARIABLES:",
+        "color":            "#1BCE48",
+        "backgroundColor":  "#1BCE4820",
+        "borderRadius": "5px",
+        "isWholeLine": true
+    },
+    {
+      "text": "DEBUG:",
+      "color":            "#FF9900",
+      "backgroundColor":  "#FF990020",
+      "borderRadius": "5px",
+      "isWholeLine": true,
+      "width": "30px"
+    },
+    {
+      "text": "REVIEW:",
+      "color":            "#1900FF",
+      "backgroundColor":  "#1900FF20",
+      "borderRadius": "5px",
+      "isWholeLine": true
+    },
+    {
+      "text": "NOTE:",
+      "color":            "#FF00BF",
+      "backgroundColor":  "#FF00BF20",
+      "borderRadius": "5px",
+      "isWholeLine": true
+    },
+    {
+        "text": "???:",
+        "color":            "#FF0000",
+        "backgroundColor":  "#FF00003D",
+        "borderRadius": "5px",
+        "isWholeLine": true
+    }
+  ]
