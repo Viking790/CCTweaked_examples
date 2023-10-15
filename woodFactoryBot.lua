@@ -15,6 +15,7 @@ print("Wood Factory Bot")
 print("Version: 1.0.0")
 print("")
 print("By: Viking790")
+-- if you make any changes to this code, please add your name to the list above. IE: By: Viking790, Steve, Bob, etc.
 sleep(1)
 shell.run("clear")
 print("Started!")
